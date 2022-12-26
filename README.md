@@ -1,0 +1,2 @@
+# jhipsterQuickstart
+JHipster Quickstart
